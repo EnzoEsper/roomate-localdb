@@ -1,0 +1,21 @@
+id_usuario,fecha_creacion,fecha_ult_act,id_situacion,descripcion,presup_max,presup_min,max_cant_roomies,id_dir_vivienda,publico,,precio_alquiler
+1,1,2022-08-20,"""2022-10-20T10:50:00Z""",2,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,4,27,t,205
+2,2,2022-08-24,"""2022-09-15T10:50:00Z""",2,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,8,1,t,2145
+3,3,2022-08-28,"""2022-10-19T10:50:00Z""",2,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,2,18,t,5445
+4,4,2022-08-30,"""2022-10-19T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,108826,61360,1,,t,5487
+5,5,2022-09-13,"""2022-10-19T10:50:00Z""",2,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,3,93,t,54874
+6,6,2022-09-17,"""2022-10-19T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,54235,38275,8,,t,254
+7,7,2022-09-23,"""2022-10-19T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,45295,5958,7,,t,458
+8,8,2022-09-27,"""2022-10-19T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,127894,22031,11,,t,5445
+9,9,2022-09-30,"""2022-10-19T10:50:00Z""",2,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,3,62,t,54487
+10,10,2022-10-05,"""2022-10-19T10:50:00Z""",1,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,1,55,t,45845
+11,11,2022-10-23,"""2022-10-22T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,39350,24947,2,,t,454
+12,12,2022-10-24,"""2022-10-22T10:50:00Z""",2,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,1,14,t,454
+13,13,2022-10-25,"""2022-10-22T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,158631,93058,10,,t,451212
+14,14,2022-10-26,"""2022-10-22T10:50:00Z""",2,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,11,24,t,5412
+15,15,2022-10-01,"""2022-10-07T10:50:00Z""",1,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,5,55,t,4524
+16,16,2022-10-02,"""2022-10-07T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,24799,16549,9,,t,8745
+17,17,2022-10-09,"""2022-10-17T10:50:00Z""",1,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,9,99,t,84512
+18,18,2022-10-10,"""2022-10-17T10:50:00Z""",3,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,71500,9136,6,,t,45478
+19,19,2022-10-11,"""2022-10-17T10:50:00Z""",1,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,11,85,t,8412485
+20,20,2022-10-12,"""2022-10-17T10:50:00Z""",1,Lorem ipsum dolor sit amet. Et cupiditate accusamus ab Quis ipsum qui magnam omnis ut corporis provident,0,0,11,27,t,54485
